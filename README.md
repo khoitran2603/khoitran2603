@@ -46,9 +46,27 @@
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/khoitran2603/Personal-Transactions-DWH-Azure-pub?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Language" src="https://img.shields.io/github/languages/top/khoitran2603/Personal-Transactions-DWH-Azure-pub?style=flat-square"/></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/khoitran2603/PigmentSquad-StoreHours-DA-PBI.git"><b>Pigment Squads Store Hours Analysis</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/khoitran2603/PigmentSquad-StoreHours-DA-PBI?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/khoitran2603/PigmentSquad-StoreHours-DA-PBI?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/khoitran2603/PigmentSquad-StoreHours-DA-PBI?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/khoitran2603/PigmentSquad-StoreHours-DA-PBI?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/khoitran2603/PigmentSquad-StoreHours-DA-PBI?style=flat-square"/></td>
+        </tr>
     </tbody>
 </table>
 <br>
+
+## ⚡ Projects
+<!-- PROJECTS START -->
+* [Personal Transactions Warehouse Azure](https://github.com/khoitran2603/Personal-Transactions-DWH-Azure-pub)
+* [Personal Transactions Analysis Budget&Spending (Descriptive)](https://github.com/khoitran2603/Personal-Transactions-DWH-Azure-pub)
+* [PigmentSquads Warehouse Azure](https://github.com/khoitran2603/PigmentSquad-StoreHours-DWH-Azure)
+* [PigmentSquads Warehouse SQL Local](https://github.com/khoitran2603/PigmentSquad-StoreHours-DWH-SQL)
+* [PigmentSquads Analysis StoreHours (Descriptive)](https://github.com/khoitran2603/PigmentSquad-StoreHours-DA-PBI)
+* [PigmentSquads Analysis Products (Descriptive)](https://github.com/khoitran2603/PigmentSquad-Products-DA-PBI) 
+<!-- PROJECTS END -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khoitran2603&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
