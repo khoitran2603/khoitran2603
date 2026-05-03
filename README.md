@@ -12,7 +12,7 @@
 ## ⚡ Projects
 <!-- PROJECTS START -->
 * [Personal Transactions Warehouse Azure](https://github.com/khoitran2603/Personal-Transactions-DWH-Azure-pub)
-* [Personal Transactions Analysis Budget&Spending (Descriptive)](https://github.com/khoitran2603/Personal-Transactions-DWH-Azure-pub)
+* [Personal Transactions Analysis Budget&Spending (Descriptive)](https://github.com/khoitran2603/Personal-Transactions-DA-PBI)
 * [PigmentSquads Warehouse Azure](https://github.com/khoitran2603/PigmentSquad-StoreHours-DWH-Azure)
 * [PigmentSquads Warehouse SQL Local](https://github.com/khoitran2603/PigmentSquad-StoreHours-DWH-SQL)
 * [PigmentSquads Analysis StoreHours (Descriptive)](https://github.com/khoitran2603/PigmentSquad-StoreHours-DA-PBI)
